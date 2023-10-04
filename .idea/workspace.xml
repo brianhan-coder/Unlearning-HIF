@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="73eddd48-e800-4a70-8bb1-0b8bdc2f393e" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="73eddd48-e800-4a70-8bb1-0b8bdc2f393e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/GNN/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/GNN/exp/exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/GNN/exp/exp_GIF.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/GNN/exp/exp_attack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/GNN/exp/exp_retrain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/GNN/lib_dataset/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/GNN/lib_dataset/data_store.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/GNN/lib_gnn_model/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/GNN/lib_gnn_model/gat/gat_net_batch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/GNN/lib_gnn_model/gcn/gcn_conv_batch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/GNN/lib_gnn_model/gcn/gcn_net_batch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/GNN/lib_gnn_model/gin/gin_net_batch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/GNN/lib_gnn_model/gin/gin_net_batch_no.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/GNN/lib_gnn_model/gnn_base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/GNN/lib_gnn_model/graphsage/graphsage_net.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/GNN/lib_gnn_model/node_classifier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/GNN/lib_gnn_model/node_classifier_hsic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/GNN/lib_gnn_model/sgc/sgc_conv_batch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/GNN/lib_gnn_model/sgc/sgc_net_batch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/GNN/lib_utils/logger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/GNN/lib_utils/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/GNN/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/GNN/parameter_parser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/main_graph.py" beforeDir="false" afterPath="$PROJECT_DIR$/Graph/main_graph.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Image/main_image.py" beforeDir="false" afterPath="$PROJECT_DIR$/Image/main_image.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+>>>>>>> 91def5f (first push)
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+<<<<<<< HEAD
+=======
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+>>>>>>> 91def5f (first push)
+  <component name="JupyterTrust" id="ccd279cf-f914-45c3-ba65-d3fa423c9948" />
+  <component name="ProjectId" id="2WDefodzdFX9kqelcOTloIPmXSE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+<<<<<<< HEAD
+=======
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+>>>>>>> 91def5f (first push)
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Graph" />
+      <recent name="$PROJECT_DIR$/Image" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73eddd48-e800-4a70-8bb1-0b8bdc2f393e" name="Default Changelist" comment="" />
+      <created>1696271684477</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696271684477</updated>
+      <workItem from="1696271690386" duration="4775000" />
+      <workItem from="1696443213870" duration="552000" />
+<<<<<<< HEAD
+=======
+      <workItem from="1696461205456" duration="631000" />
+>>>>>>> 91def5f (first push)
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="573" y="376" key="com.intellij.ide.util.TipDialog" timestamp="1696271695905">
+      <screen x="0" y="25" width="1792" height="1045" />
+    </state>
+    <state x="573" y="376" key="com.intellij.ide.util.TipDialog/0.25.1792.1045@0.25.1792.1045" timestamp="1696271695905" />
+  </component>
+</project>
