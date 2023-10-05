@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# Unlearning-HSIC
-# Unlearning-HSIC
-# Unlearning-HSIC
-=======
-# Unlearning-HSIC
->>>>>>> 91def5f (first push)
 # Unlearning-HIF
+
+This repo is associated with ongoing experiment. These codes may not be used for any purpose without permission, for authorization please email l.han@yale.edu
